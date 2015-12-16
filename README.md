@@ -7,7 +7,7 @@ Descargados desde http://web.archive.org/web/20130520141102/http://leyfundamenta
 Cada archivo contiene una version de la constitución.  
 La idea original es hacer commits de una version sobre la anterior pero los estilos de textos 
 todavía no estan estandarizados.  
-Mientras tanto uso el comando *diff* entre cada version
+Mientras tanto uso el comando *diff* entre cada version.  
 
 Version Diff
 ```
