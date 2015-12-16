@@ -1,11 +1,19 @@
 ﻿CONSTITUCIÓN DE LA NACIÓN ARGENTINA 
+
 1 de mayo de 1853
+
 Preámbulo
+
+
 
 Nos los representantes del pueblo de la Confederación Argentina, reunidos en Congreso General Constituyente por voluntad y elección de las provincias que la componen, en cumplimiento de pactos preexistentes, con el objeto de constituir la unión nacional, afianzar la justicia, consolidar la paz interior, proveer a la defensa común, promover el bienestar general, y asegurar los beneficios de la libertad, para nosotros, para nuestra posteridad, y para todos los hombres del mundo que quieran habitar en el suelo argentino: invocando la protección de Dios, fuente de toda razón y justicia: ordenamos, decretamos y establecemos esta Constitución, para la Confederación Argentina.
 
+
+
 Parte primera
+
 Capítulo único. 
+
 Declaraciones, derechos y garantías
 
 Artículo 1. La Nación Argentina adopta para su gobierno la forma representativa republicana federal, según la establece la presente Constitución.
@@ -70,15 +78,24 @@ Artículo 30. La Constitución puede reformarse en el todo o en cualquiera de su
 
 Artículo 31. Esta Constitución, las leyes de la Confederación que en su consecuencia se dicten por el Congreso, y los tratados con las potencias extranjeras, son la ley suprema de la Nación; y las autoridades de cada Provincia están obligadas a conformarse a ellas, no obstante cualquier disposición en contrario que contengan las leyes o Constituciones Provinciales.
 
+
+
 SEGUNDA PARTE
+
 AUTORIDADES DE LA NACIÓN
+
 TÍTULO PRIMERO
+
 GOBIERNO FEDERAL
+
 SECCIÓN PRIMERA
+
 Del Poder Legislativo
 
 Artículo 32. Un Congreso compuesto de dos Cámaras, una de Diputados de la Nación, y otra de senadores de las provincias y de la Capital, será investido del Poder Legislativo de la Confederación.
+
 CAPÍTULO PRIMERO
+
 De la Cámara de Diputados
 
 Artículo 33. La Cámara de Diputados se compondrá de representantes elegidos directamente por el pueblo de las provincias y de la Capital, que se consideran a este fin como distritos electorales de un solo Estado y a simple pluralidad de sufragios de uno por cada veinte mil habitantes, o de una fracción que no baje del número de diez mil.
@@ -98,7 +115,9 @@ Artículo 39. En caso de vacante, el Gobierno de Provincia, o de la Capital, hac
 Artículo 40. A la Cámara de Diputados corresponde exclusivamente la iniciativa de las leyes sobre contribuciones y reclutamiento de tropas.
 
 Artículo 41. Sólo ella ejerce el derecho de acusar ante el Senado al Presidente y Vice-Presidente de la Confederación y a sus Ministros y a los miembros de ambas Cámaras, a los de la Corte Suprema de Justicia, y a los Gobernadores de Provincia, por delitos de traición, concusión, malversación de fondos públicos, violación de la Constitución, u otros que merezcan pena infamante o de muerte; después de haber conocido de ellos, a petición de parte, o de alguno de sus miembros, y declarada haber lugar a la formación de causa por mayoría de dos terceras partes de sus miembros presentes.
+
 CAPÍTULO SEGUNDO
+
 Del Senado
 
 Artículo 42. El Senado se compondrá de dos Senadores de cada Provincia, elegidos por sus Legislaturas a pluralidad de sufragios; y dos de la Capital elegidos en la forma prescripta para la elección del Presidente de la Confederación. Cada Senador tendrá un voto.
@@ -120,7 +139,9 @@ Artículo 49. Corresponde también al Senado autorizar al Presidente de la Confe
 Artículo 50. Cuando vacase alguna plaza de Senador por muerte, renuncia u otra causa, el Gobierno a que corresponda la vacante, hace proceder inmediatamente a la elección de un nuevo miembro.
 
 Artículo 51. Sólo el Senado inicia las reformas de la Constitución.
+
 CAPÍTULO TERCERO
+
 Disposiciones comunes a ambas Cámaras
 
 Artículo 52. Ambas Cámaras se reunirán en sesiones ordinarias todos los años desde el 1 de mayo hasta el 30 de septiembre. Pueden también ser convocadas extraordinariamente por el Presidente de la Confederación, o prorrogadas sus sesiones.
@@ -146,39 +167,71 @@ Artículo 61. Ningún miembro del Congreso podrá recibir empleo o comisión del
 Artículo 62. Los eclesiásticos regulares no pueden ser miembros del Congreso, ni los Gobernadores de Provincia por la de su mando.
 
 Artículo 63. Los servicios de los Senadores y Diputados son remunerados por el tesoro de la Confederación, con una dotación que señalará la ley.
+
 CAPÍTULO CUARTO
+
 Atribuciones del Congreso
 
 Artículo 64. Corresponde al Congreso: 
+
 ·         1º. Legislar sobre las Aduanas exteriores, y establecer los derechos de importación y exportación que han de satisfacerse en ellas. 
+
 ·         2º. Imponer contribuciones directas por tiempo determinado y proporcionalmente iguales en todo el territorio de la Confederación, siempre que la defensa, seguridad común y bien general del Estado lo exijan. 
+
 ·         3º. Contraer empréstitos de dinero sobre el crédito de la Confederación. 
+
 ·         4º. Disponer del uso y de la enajenación de las tierras de propiedad nacional. 
+
 ·         5º. Establecer y reglamentar un Banco Nacional en la Capital y sus sucursales en las Provincias, con facultad de emitir billetes. 
+
 ·         6º. Arreglar el pago de la deuda interior y exterior de la Confederación. 
+
 ·         7º. Fijar anualmente el Presupuesto de gastos de administración de la Confederación, y aprobar o desechar la cuenta de inversión. 
+
 ·         8º. Acordar subsidios del tesoro Nacional a las Provincias cuyas rentas no alcancen, según sus presupuestos, a cubrir sus gastos ordinarios. 
+
 ·         9º. Reglamentar la libre navegación de los ríos interiores, habilitar los puertos que considere convenientes, y crear y suprimir aduanas. 
+
 ·         10. Hacer sellar monedas, fijar su valor y el de las extranjeras; y adoptar un sistema uniforme de pesos y medidas para toda la Confederación. 
+
 ·         11. Dictar los códigos civil, comercial, penal y de minería, y especialmente leyes generales para toda la Confederación sobre ciudadanía y naturalización, sobre bancarrotas, sobre falsificación de la moneda corriente y documentos públicos del Estado, y las que requiera el establecimiento del juicio por jurados. 
+
 ·         12. Reglar el comercio marítimo y terrestre con las naciones extranjeras y de las Provincias entre sí. 
+
 ·         13. Arreglar y establecer las postas y correos generales de la Confederación. 
+
 ·         14. Arreglar definitivamente los límites del territorio de la Confederación; fijar los de las Provincias, crear otras nuevas, y determinar por una legislación especial la organización, administración y gobierno que deben tener los territorios nacionales, que queden fuera de los límites que se asignen a las Provincias. 
+
 ·         15. Proveer a la seguridad de las fronteras; conservar el trato pacífico con los indios, y promover la conversión de ellos al catolicismo. 
+
 ·         16. Proveer lo conducente a la prosperidad del país, al adelanto y bienestar de todas las Provincias, y al progreso de la ilustración, dictando planes de instrucción general y universitaria, y promoviendo la industria, la inmigración, la construcción de ferrocarriles y canales navegables, la colonización de tierras de propiedad nacional, la introducción y establecimiento de nuevas industrias, la importación de capitales extranjeros y la exploración de los ríos interiores, por leyes protectoras de estos fines y por concesiones temporales de privilegios y recompensas de estímulo. 
+
 ·         17. Establecer tribunales inferiores a la Suprema Corte de Justicia, crear y suprimir empleos, fijar sus atribuciones, dar pensiones, decretar honores y conceder amnistías generales. 
+
 ·         18. Admitir o desechar los motivos de dimisión del Presidente o Vice-Presidente de la República, y declarar el caso de proceder a nueva elección: hacer es escrutinio y rectificación de ella. 
+
 ·         19. Aprobar o desechar los tratados concluidos con las demás naciones, y los concordatos con la Silla Apostólica; y arreglar el ejercicio del patronato en toda la Confederación. 
+
 ·         20. Admitir en el territorio de la Confederación otras órdenes religiosas a más de las existentes. 
+
 ·         21. Autorizar al Poder Ejecutivo para declarar la guerra o hacer la paz. 
+
 ·         22. Conceder patentes de corso y de represalias, y establecer reglamentos para las presas. 
+
 ·         23. Fijar la fuerza de línea de tierra y de mar en tiempo de paz y guerra; y formar reglamentos y ordenanzas para el gobierno de dichos ejércitos. 
+
 ·         24. Autorizar la reunión de las milicias de todas las Provincias, o parte de ellas, cuando lo exija la ejecución de las leyes de la Confederación, y sea necesario contener las insurrecciones o repeler las invasiones. Disponer la organización, armamento y disciplina de dichas milicias, y la administración y gobierno de la parte de ellas que estuviese empleada en servicio de la Confederación, dejando a las Provincias el nombramiento de sus correspondientes Jefes y Oficiales, y el cuidado de establecer en su respectiva milicia la disciplina prescripta por el Congreso. 
+
 ·         25. Permitir la introducción de tropas extranjeras en el territorio de la Confederación, y la salida de las fuerzas nacionales fuera de él. 
+
 ·         26. Declarar en estado de sitio uno o varios puntos de la Confederación en caso de conmoción interior, y aprobar o suspender el estado de sitio declarado, durante su receso, por el Poder Ejecutivo. 
+
 ·         27. Ejercer una legislación exclusiva en todo el territorio de la Capital de la Confederación, y sobre los demás lugares adquiridos por compra o cesión en cualquiera de las Provincias, para establecer fortalezas, arsenales, almacenes, u otros establecimientos de utilidad nacional. 
+
 ·         28. Examinar las Constituciones provinciales y reprobarlas si no estuviesen conformes con los principios y disposiciones de esta Constitución; y hacer todas las leyes y reglamentos que sean convenientes para poner en ejercicio los poderes antecedentes y todos los otros concedidos por la presente Constitución al Gobierno de la Confederación Argentina. 
+
 CAPÍTULO QUINTO
+
 De la formación y sanción de las leyes
 
 Artículo 65. Las leyes pueden tener principio en cualquiera de las Cámaras del Congreso, por proyectos presentados por sus miembros o por el Poder Ejecutivo; excepto las relativas a los objetos de que trata el artículo 40 y 51.
@@ -192,9 +245,13 @@ Artículo 68. Ningún proyecto de ley desechado totalmente por una de las Cámar
 Artículo 69. Desechado en el todo o en parte un proyecto por el Poder Ejecutivo, vuelve con sus objeciones a la Cámara de su origen: ésta lo discute de nuevo, y si lo confirma por mayoría de dos tercios de votos, pasa otra vez a la Cámara de revisión. Si ambas Cámaras lo sancionan por igual mayoría, el proyecto es ley y pasa al Poder Ejecutivo para su promulgación. Las votaciones de ambas Cámaras serán en este caso nominales, por sí o por no; y tanto los nombres y fundamentos de los sufragantes, como las objeciones del Poder Ejecutivo, se publicarán inmediatamente por la prensa. Si las Cámaras difieren sobre las objeciones, el proyecto no podrá repetirse en las sesiones de aquel año.
 
 Artículo 70. En la sanción de las leyes se usará de esta fórmula: "El Senado y Cámara de Diputados de la Confederación Argentina, reunidos en Congreso, etc., decretan, o sancionan con fuerza de ley".
+
 SECCIÓN SEGUNDA
+
 DEL PODER EJECUTIVO
+
 CAPÍTULO PRIMERO
+
 De su naturaleza y duración
 
 Artículo 71. El Poder Ejecutivo de la Nación será desempeñado por un ciudadano con el título de "Presidente de la Confederación Argentina."
@@ -210,13 +267,19 @@ Artículo 75. El Presidente de la Confederación cesa en el poder el día mismo 
 Artículo 76. El Presidente y Vice-Presidente disfrutan de un sueldo pagado por el Tesoro de la Confederación, que no podrá ser alterado en el período de sus nombramientos. Durante el mismo período no podrán ejercer otro empleo, ni recibir ningún otro emolumento de la Confederación ni de Provincia alguna.
 
 Artículo 77. Al tomar posesión de su cargo el Presidente y Vice-Presidente prestarán juramento en manos del Presidente del Senado (la primera vez del Presidente del Congreso Constituyente), estando reunido el Congreso, en los términos siguientes: "Yo, N. N., juro por Dios Nuestro Señor y estos Santos Evangelios, desempeñar con lealtad y patriotismo el cargo de Presidente (o Vice-Presidente) de la Confederación, y observar y hacer observar fielmente la Constitución de la Confederación Argentina. Si así no lo hiciere, Dios y la Confederación me lo demanden".
+
 CAPÍTULO SEGUNDO
+
 De la forma y tiempo de la elección del Presidente
+
 y Vice-Presidente de la Confederación
 
 Artículo 78. La elección del Presidente y Vice-Presidente de la Confederación se hará del modo siguiente: La Capital y cada una de las Provincias nombrarán por votación directa una junta de electores, igual al duplo del total de Diputados y Senadores que envían al Congreso, con las mismas calidades y bajo las mismas formas prescriptas para la elección de Diputados.
+
 No pueden ser electores los Diputados, los Senadores, ni los empleados a sueldo del Gobierno Federal.
+
 Reunidos los electores en la Capital de la Confederación y en la de sus Provincias respectivas cuatro meses antes que concluya el término del Presidente cesante, procederán a elegir Presidente y Vice-Presidente de la Confederación por cédulas firmadas, expresando en una la persona por quien votan para Presidente, y en otra distinta la que eligen para Vice-Presidente.
+
 Se harán dos listas de todos los individuos electos para Presidente y otras dos de los nombrados para Vice-Presidente con el número de votos que cada uno de ellos hubiere obtenido. Estas listas serán firmadas por los electores, y se remitirán cerradas y selladas dos de ellas (una de cada clase) al Presidente de la Legislatura Provincial, y en la Capital al Presidente de la Municipalidad, en cuyos registros permanecerán depositadas y cerradas, y las otras dos al Presidente del Senado (la primera vez al Presidente del Congreso Constituyente).
 
 Artículo 79. El Presidente del Senado (la primera vez el del Congreso Constituyente), reunidas todas las listas, las abrirá a presencia de ambas Cámaras. Asociados a los secretarios cuatro miembros del Congreso sacados a la suerte, procederán inmediatamente a hacer el escrutinio y a anunciar el número de sufragios que resulte en favor de cada candidato para la Presidencia y Vice-Presidencia de la Confederación. Los que reúnan en ambos casos la mayoría absoluta de todos los votos, serán proclamados inmediatamente Presidente y Vice-Presidente.
@@ -226,34 +289,61 @@ Artículo 80. En el caso de que por dividirse la votación no hubiere mayoría a
 Artículo 81.Esta elección se hará a pluralidad absoluta de sufragios y por votación nominal. Si verificada la primera votación no resultare mayoría absoluta, se hará segunda vez, contrayéndose la votación a las dos personas que en la primera hubiesen obtenido mayor número de sufragios. En caso de empate, se repetirá la votación, y si resultase nuevo empate, decidirá el Presidente del Senado (la primera vez el del Congreso Constituyente).No podrá hacerse el escrutinio, ni la rectificación de estas elecciones sin que estén presentes las tres cuartas partes del total de los miembros del Congreso.
 
 Artículo 82.La elección del Presidente y Vice-Presidente de la Confederación debe quedar concluida en una sola sesión del Congreso, publicándose en seguida el resultado de ésta y las actas electorales por la prensa.
+
 CAPÍTULO TERCERO
+
 Atribuciones del Poder Ejecutivo
 
 Artículo 83. El Presidente de la Confederación tiene las siguientes atribuciones: 
+
 ·         1ª. Es el Jefe Supremo de la Confederación, y tiene a su cargo la administración general del país. 
+
 ·         2ª. Expide las instrucciones y reglamentos que sean necesarios para la ejecución de las leyes de la Confederación, cuidando de no alterar su espíritu con excepciones reglamentarias. 
+
 ·         3ª. Es el jefe inmediato y local de la Capital de la Confederación. 
+
 ·         4ª. Participa de la formación de las leyes con arreglo a la Constitución, las sanciona y promulga. 
+
 ·         5ª. Nombra los magistrados de la Corte Suprema y de los demás tribunales federales inferiores, con acuerdo del Senado. 
+
 ·         6ª. Puede indultar y conmutar las penas por delitos sujetos a la jurisdicción federal, previo informe del Tribunal correspondiente excepto en los casos de acusación por la Cámara de Diputados. 
+
 ·         7ª. Concede jubilaciones, retiros, licencias y goce de montepíos, conforme a las leyes de la Confederación. 
+
 ·         8ª. Ejerce los derechos del patronato nacional en la presentación de Obispos para las iglesias catedrales, a propuesta en terna del Senado. 
+
 ·         9ª. Concede el pase o retiene los decretos de los Concilios, las Bulas, Breves y Rescriptos, del Sumo Pontífice de Roma, con acuerdo de la Suprema Corte: requiriéndose una ley cuando contienen disposiciones generales y permanentes. 
+
 ·         10ª. Nombra y remueve a los Ministros Plenipotenciarios y Encargados de Negocios, con acuerdo del Senado; y por sí solo nombra y remueve los Ministros del despacho, los Oficiales de sus Secretarías, los Agentes Consulares, y demás empleados de la administración, cuyo nombramiento no está reglado de otra manera por esta Constitución. 
+
 ·         11ª. Hace anualmente la apertura de las sesiones del Congreso, reunidas al efecto ambas Cámaras en la Sala del Senado, dando cuenta en esta ocasión al Congreso del estado de la Confederación, de las reformas prometidas por la Constitución, y recomendando a su consideración las medidas que juzgue necesarias y convenientes. 
+
 ·         12ª. Prorroga las sesiones ordinarias del Congreso, o lo convoca a sesiones extraordinarias, cuando un grave interés de orden o de progreso lo requiera. 
+
 ·         13ª. Hace recaudar las rentas de la Confederación y decreta su inversión con arreglo a la ley o presupuestos de gastos nacionales. 
+
 ·         14ª. Concluye y firma tratados de paz, de comercio, de navegación, de alianza, de límites y de neutralidad, concordatos y otras negociaciones requeridas para el mantenimiento de buenas relaciones con las potencias extranjeras, recibe sus Ministros y admite sus Cónsules. 
+
 ·         15ª. Es comandante en Jefe de todas las fuerzas de mar y de tierra de la Confederación. 
+
 ·         16ª. Provee los empleos militares de la Confederación: con acuerdo del Senado en la concesión de los empleos, o grados de oficiales superiores del ejército y armada; y por sí solo en el campo de batalla. 
+
 ·         17ª. Dispone de las fuerzas militares marítimas y terrestres, y corre con su organización y distribución según las necesidades de la Confederación. 
+
 ·         18ª. Declara la guerra y concede patentes de corso, y cartas de represalias con autorización y aprobación del Congreso. 
+
 ·         19ª. Declara en estado de sitio uno o varios puntos de la Confederación, en caso de ataque exterior, y por un término limitado, con acuerdo del Senado. En caso de conmoción interior sólo tiene esta facultad cuando el Congreso está en receso, porque es atribución que corresponde a este cuerpo. El Presidente la ejerce con las limitaciones prescriptas en el artículo 23. 
+
 ·         20ª. Aun estando en Sesiones el Congreso, en casos urgentes en que peligre la tranquilidad pública, el Presidente podrá por sí solo usar sobre las personas, de la facultad limitada en el artículo 23; dando cuenta a este cuerpo en el término de diez días desde que comenzó a ejercerla. Pero si el Congreso no hace declaración de sitio, las personas arrestadas o trasladadas de uno a otro punto, serán restituidas al pleno goce de su libertad, a no ser que habiendo sido sujetas a juicio debiesen continuar en arresto por disposición del Juez o Tribunal que conociere de la causa. 
+
 ·         21ª. Puede pedir a los Jefes de todos los ramos y Departamentos de la administración, y por su conducto a los demás empleados los informes que crea convenientes, y ellos son obligados a darlos. 
+
 ·         22ª. No puede ausentarse del territorio de la Capital, sino con permiso del Congreso. En el receso de éste, sólo podrá hacerlo sin licencia por graves objetos de servicio público. 
+
 ·         23ª. En todos los casos en que según los artículos anteriores, debe el Poder Ejecutivo proceder con acuerdo del Senado, podrá durante el receso de éste, proceder por sí solo, dando cuenta de lo obrado a dicha Cámara en la próxima reunión para obtener su aprobación. 
+
 CAPÍTULO CUARTO
+
 De los ministros del Poder Ejecutivo
 
 Artículo 84. Cinco Ministros Secretarios, a saber: del Interior, de Relaciones Exteriores, de Hacienda, de Justicia, Culto e Instrucción Pública, y de Guerra y Marina, tendrán a su cargo el despacho de los negocios de la Confederación, y refrendarán y legalizarán los actos del Presidente por medio de su firma sin cuyo requisito carecen de eficacia. Una ley deslindará los ramos del respectivo despacho de los Ministros.
@@ -269,9 +359,13 @@ Artículo 88. No pueden ser Senadores ni Diputados sin hacer dimisión de sus em
 Artículo 89. Pueden los Ministros concurrir a las sesiones del Congreso y tomar parte en sus debates, pero no votar.
 
 Artículo 90. Gozarán por sus servicios de un sueldo establecido por la ley, que no podrá ser aumentado ni disminuidos en favor o perjuicio de los que se hallen en ejercicio.
+
 SECCIÓN TERCERA
+
 DEL PODER JUDICIAL
+
 CAPÍTULO PRIMERO
+
 De su naturaleza y duración
 
 Artículo 91. El Poder Judicial de la Confederación será ejercido por una Corte Suprema de Justicia, compuesta de nueve jueces y dos fiscales, que residirá en la Capital, y por los demás Tribunales inferiores que el Congreso estableciere en el territorio de la Confederación.
@@ -285,7 +379,9 @@ Artículo 94. Ninguno podrá ser miembro de la Corte Suprema de Justicia, sin se
 Artículo 95. En la primera instalación de la Corte Suprema los individuos nombrados prestarán juramento en manos del Presidente de la Confederación, de desempeñar sus obligaciones administrando justicia bien y legalmente, y en conformidad a lo que prescribe la Constitución. En lo sucesivo, lo prestarán ante el Presidente de la misma Corte.
 
 Artículo 96. La Corte Suprema dictará su reglamento interior y económico, y nombrará todos sus empleados subalternos.
+
 CAPÍTULO SEGUNDO
+
 Atribuciones del Poder Judicial
 
 Artículo 97. Corresponde a la Corte Suprema y a los tribunales inferiores de la Confederación, el conocimiento y decisión de todas las causas que versen sobre puntos regidos por la Constitución, por las leyes de la Confederación, y por los tratados con las naciones extranjeras; de los conflictos entre los diferentes poderes públicos de una misma Provincia; de las causas concernientes a embajadores, ministros públicos y cónsules extranjeros; de las causas de almirantazgo y jurisdicción marítima; de los recursos de fuerza; de los asuntos en que la Confederación sea parte; de las causas que se susciten entre dos o más Provincias; entre una Provincia y los vecinos de otra; entre los vecinos de diferentes Provincias; entre un Provincia y sus propios vecinos; y entre una Provincia y un Estado o ciudadano extranjero.
@@ -295,7 +391,9 @@ Artículo 98. En estos casos, la Corte Suprema ejercerá su jurisdicción por ap
 Artículo 99. Todos los juicios criminales ordinarios, que no se deriven del derecho de acusación concedido a la Cámara de Diputados, se terminarán por jurados, luego que se establezca en la Confederación esta institución. La actuación de estos juicios se hará en la misma Provincia donde se hubiere cometido el delito; pero cuando éste se cometa fuera de los límites de la Confederación, contra el derecho de gentes, el Congreso determinará por una ley especial el lugar en que haya de seguirse el juicio.
 
 Artículo 100. La traición contra la Confederación consistirá únicamente en tomar las armas contra ella, o en unirse a sus enemigos prestándoles ayuda y socorro. El Congreso fijará por una ley especial la pena de este delito; pero ella no pasará de la persona del delincuente ni la infamia del reo se transmitirá a sus parientes de cualquier grado.
+
 TÍTULO SEGUNDO
+
 GOBIERNOS DE PROVINCIA
 
 Artículo 101. Las provincias conservan todo el poder no delegado por esta Constitución al Gobierno Federal.
@@ -311,4 +409,5 @@ Artículo 105. Las provincias no ejercen el poder delegado a la Confederación. 
 Artículo 106. Ninguna Provincia puede declarar ni hacer la guerra a otra Provincia. Sus quejas deben ser sometidas a la Corte Suprema de Justicia y dirimidas por ella. Sus hostilidades de hecho son actos de guerra civil, calificados de sedición o asonada que el Gobierno Federal debe sofocar o reprimir conforme a la ley.
 
 Artículo 107. Los gobernadores de Provincia son agentes naturales del Gobierno Federal para hacer cumplir la Constitución y las leyes de la Confederación.
+
 Dada en la Sala de Sesiones del Congreso General Constituyente en la Ciudad de Santa Fe el día primero de Mayo del año del Señor mil ochocientos cincuenta y tres. 
